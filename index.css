@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(245, 240, 240, 0.699);
+}
+a{
+    text-decoration: none;
+    border-bottom: 2px solid blue;
+}
+.fa{
+    color: rgb(0, 132, 255);
+}
+.insta{
+    background-color: white;
+    padding: 60px 10px;
+}
+.text{
+    margin: 20px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
+.twitter{
+    background-color: white;
+    padding: 60px 10px;
+}
+.facebook{
+    background-color: white;
+    padding: 60px 10px;
+}
+.pinterest{
+    background-color: white;
+    padding: 60px 10px;
+}
+.google{
+    background-color: white;
+    padding: 60px 10px;
+}
+.github{
+    background-color: white;
+    padding: 60px 10px;
+}
+.my-row{
+    padding: 20px 0px;
+}
